@@ -1,8 +1,10 @@
 package com.company;
-import  java.util.Scanner;
+
 
 // Exam answer sheet are class templates
 // Each students fill the answer sheet and creates an object for a submission
+
+import java.util.Scanner;
 
 public class CWH_05_TakingInput {
     // "psvm" and press tab after creating a class
