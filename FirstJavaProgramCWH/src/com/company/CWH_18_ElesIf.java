@@ -35,20 +35,20 @@ public class CWH_18_ElesIf {
 //             default:
 //                 System.out.println("Enjoy your Life!");
 //        }
-        String var = "harry";
-        switch(var){
-            case "gaurav" -> {
-                System.out.println("You are going to become an adult");
-            }
-            case "rohan" -> {
-                System.out.printf("You are going to join a job!");
-            }
-            case "minku"-> {
-                System.out.println("You will retire soon!");
-            }
-            default -> System.out.println("Enjoy your Life!");
-        }
-        System.out.println(" \nThanks for using my Java! code");
+//        String var = "harry";
+//        switch(var){
+//            case "gaurav" -> {
+//                System.out.println("You are going to become an adult");
+//            }
+//            case "rohan" -> {
+//                System.out.printf("You are going to join a job!");
+//            }
+//            case "minku"-> {
+//                System.out.println("You will retire soon!");
+//            }
+//            default -> System.out.println("Enjoy your Life!");
+//        }
+//        System.out.println(" \nThanks for using my Java! code");
     }
 
 }
