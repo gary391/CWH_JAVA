@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46ebf4c-af12-4396-bde8-9b1c118c1ced" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_19_practiceset4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_21_WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_22_dowhileloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_23_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_24_meraBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_24_meraContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_25_practiceset4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_26_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_27_arrayMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_28_MultiDimArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_29_practiceset5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_18_ElesIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_18_ElesIf.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,17 +23,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/CWH_22_dowhileloop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_23_ForLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_26_arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" selection-start-line="30" selection-end-line="30" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_27_arrayMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" selection-start-line="32" selection-end-line="34" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_28_MultiDimArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_23_ForLoop.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_29_practiceset5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="318">
+              <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_21_WhileLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -69,6 +116,15 @@
         <option value="$PROJECT_DIR$/src/com/company/CWH_21_WhileLoop.java" />
         <option value="$PROJECT_DIR$/src/com/company/CWH_22_dowhileloop.java" />
         <option value="$PROJECT_DIR$/src/com/company/CWH_23_ForLoop.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_24_ContinueBreak.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_24_meraBreak.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_24_meraContinue.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_25_practiceset4.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_26_arrays.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_27_arrayMethods.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_28_MultiDimArray.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_29_practiceset6.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_29_practiceset5.java" />
       </list>
     </option>
   </component>
@@ -116,12 +172,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1658942558985" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1659022427772" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,33 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CWH_23_ForLoop">
-    <configuration name="CWH_16_conditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_16_conditional" />
-      <module name="FirstJavaProgramCWH" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CWH_18_ElesIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_18_ElesIf" />
-      <module name="FirstJavaProgramCWH" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CWH_29_practiceset5">
     <configuration name="CWH_19_practiceset4" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CWH_19_practiceset4" />
       <module name="FirstJavaProgramCWH" />
@@ -175,8 +211,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_21_WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_21_WhileLoop" />
+    <configuration name="CWH_25_practiceset4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_25_practiceset4" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -188,8 +224,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_22_dowhileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_22_dowhileloop" />
+    <configuration name="CWH_26_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_26_arrays" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -201,8 +237,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_23_ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_23_ForLoop" />
+    <configuration name="CWH_27_arrayMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_27_arrayMethods" />
+      <module name="FirstJavaProgramCWH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CWH_28_MultiDimArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_28_MultiDimArray" />
+      <module name="FirstJavaProgramCWH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CWH_29_practiceset5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_29_practiceset5" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -216,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CWH_23_ForLoop" />
-        <item itemvalue="Application.CWH_22_dowhileloop" />
-        <item itemvalue="Application.CWH_21_WhileLoop" />
-        <item itemvalue="Application.CWH_18_ElesIf" />
-        <item itemvalue="Application.CWH_16_conditional" />
+        <item itemvalue="Application.CWH_29_practiceset5" />
+        <item itemvalue="Application.CWH_28_MultiDimArray" />
+        <item itemvalue="Application.CWH_27_arrayMethods" />
+        <item itemvalue="Application.CWH_26_arrays" />
+        <item itemvalue="Application.CWH_25_practiceset4" />
       </list>
     </recent_temporary>
   </component>
@@ -238,10 +300,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1081" y="0" width="839" height="1080" extended-state="6" />
+    <frame x="910" y="0" width="1010" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.35131744" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3502066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -368,13 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_21_WhileLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CWH_19_practiceset4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="538">
@@ -382,17 +437,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_21_WhileLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CWH_22_dowhileloop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_26_arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_25_practiceset4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_24_meraContinue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="25" column="67" lean-forward="true" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_24_meraBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CWH_23_ForLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_28_MultiDimArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_27_arrayMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_29_practiceset5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
         </state>
       </provider>
     </entry>
