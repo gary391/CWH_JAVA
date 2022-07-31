@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46ebf4c-af12-4396-bde8-9b1c118c1ced" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/gauyada.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CHW_34_recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_31_methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_32_MethodOverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_33_varargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_34_PracticeSetMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_35_oops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CreateArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/JavaHttpClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_38_customClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetOOPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_29_practiceset5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_29_practiceset5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_34_PracticeSetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_35_PracticeSetMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_35_oops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_36_37_oops.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,64 +20,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_32_MethodOverLoading.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetOOPS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="77" column="56" selection-start-line="77" selection-start-column="56" selection-end-line="77" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_33_varargs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CHW_34_recursion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_34_PracticeSetMethods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state relative-caret-position="540">
+              <caret line="153" column="30" lean-forward="true" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_35_oops.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_25_practiceset4.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_38_customClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_31_methods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="-122">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -137,6 +97,11 @@
         <option value="$PROJECT_DIR$/src/com/company/CHW_34_recursion.java" />
         <option value="$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetMethods.java" />
         <option value="$PROJECT_DIR$/src/com/company/CWH_35_oops.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_34_PracticeSetMethods.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_38_ownClass.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_38_customClass.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetOOPS.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java" />
       </list>
     </option>
   </component>
@@ -184,7 +149,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1659217323075" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1659230020100" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -209,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CWH_39_PracticeSetMethods">
+  <component name="RunManager" selected="Application.CWH_39_PracticeSetOOPS">
     <configuration name="CHW_34_recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CHW_34_recursion" />
       <module name="FirstJavaProgramCWH" />
@@ -236,34 +201,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_31_methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_31_methods" />
-      <module name="FirstJavaProgramCWH" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CWH_32_MethodOverLoading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_32_MethodOverLoading" />
-      <module name="FirstJavaProgramCWH" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CWH_33_varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CWH_33_varargs" />
+      <module name="FirstJavaProgramCWH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CWH_38_customClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_38_customClass" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -288,13 +240,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CWH_39_PracticeSetOOPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_39_PracticeSetOOPS" />
+      <module name="FirstJavaProgramCWH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CWH_39_PracticeSetOOPS" />
+        <item itemvalue="Application.CWH_38_customClass" />
         <item itemvalue="Application.CWH_39_PracticeSetMethods" />
         <item itemvalue="Application.CHW_34_recursion" />
         <item itemvalue="Application.CWH_33_varargs" />
-        <item itemvalue="Application.CWH_32_MethodOverLoading" />
-        <item itemvalue="Application.CWH_31_methods" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +278,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="966" y="0" width="954" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.7905702" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -533,45 +497,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_31_methods.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_33_varargs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="15" selection-start-column="11" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_36_37_oops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CWH_25_practiceset4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="720">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_31_methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_35_PracticeSetMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CHW_34_recursion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_33_varargs.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_38_customClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="22" />
+        <state relative-caret-position="-122">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_34_PracticeSetMethods.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetOOPS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="540">
+          <caret line="153" column="30" lean-forward="true" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_35_oops.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

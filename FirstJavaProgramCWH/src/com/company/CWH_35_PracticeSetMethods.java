@@ -1,6 +1,6 @@
 package com.company;
 
-public class CWH_34_PracticeSetMethods {
+public class CWH_35_PracticeSetMethods {
 
 //    static void multable(int a){
 //        int result = 1;
