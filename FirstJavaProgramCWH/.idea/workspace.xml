@@ -2,51 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46ebf4c-af12-4396-bde8-9b1c118c1ced" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_38_customClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetOOPS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_42_constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_43_GuesstheName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_44_PracticeSetAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_45_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_46_constructor_in_inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_46_this_and_super.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_34_PracticeSetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_35_PracticeSetMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_35_oops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_36_37_oops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstJavaProgramCWH/META-INF/FirstJavaProgramCWH.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_31_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_31_methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetOOPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetOOPS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetOOPS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="153" column="30" lean-forward="true" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/CWH_38_customClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-122">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,7 +61,6 @@
         <option value="$PROJECT_DIR$/src/com/company/CWH_29_practiceset6.java" />
         <option value="$PROJECT_DIR$/src/com/company/ArrayListJava.java" />
         <option value="$PROJECT_DIR$/src/com/company/CWH_29_practiceset5.java" />
-        <option value="$PROJECT_DIR$/src/com/company/CWH_31_methods.java" />
         <option value="$PROJECT_DIR$/src/com/company/CreateArrayListExample.java" />
         <option value="$PROJECT_DIR$/src/com/company/JavaHttpClientTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/CWH_32_MethodOverLoading.java" />
@@ -100,16 +71,26 @@
         <option value="$PROJECT_DIR$/src/com/company/CWH_34_PracticeSetMethods.java" />
         <option value="$PROJECT_DIR$/src/com/company/CWH_38_ownClass.java" />
         <option value="$PROJECT_DIR$/src/com/company/CWH_38_customClass.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_31_methods.java" />
         <option value="$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetOOPS.java" />
         <option value="$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_42_constructor.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_43_GuesstheName.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_44_PracticeSetAccessModifier.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_45_Inheritance.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CWH_45_constructor_in_inheritance.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="966" />
-    <option name="width" value="954" />
-    <option name="height" value="1080" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectId" id="2CmjNRrfttHAApDrAVIdBXQhA7h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -118,6 +99,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,50 +127,25 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1659230020100" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.CWH_39_PracticeSetOOPS">
-    <configuration name="CHW_34_recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CHW_34_recursion" />
-      <module name="FirstJavaProgramCWH" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CWH_46_this_and_super">
     <configuration name="CWH_19_practiceset4" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CWH_19_practiceset4" />
       <module name="FirstJavaProgramCWH" />
@@ -201,8 +159,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_33_varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_33_varargs" />
+    <configuration name="CWH_46_this_and_super (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_46_this_and_super" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -214,8 +172,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_38_customClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_38_customClass" />
+    <configuration name="CWH_46_this_and_super (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_46_this_and_super" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -227,8 +185,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_39_PracticeSetMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_39_PracticeSetMethods" />
+    <configuration name="CWH_46_this_and_super (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_46_this_and_super" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -240,8 +198,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_39_PracticeSetOOPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_39_PracticeSetOOPS" />
+    <configuration name="CWH_46_this_and_super (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_46_this_and_super" />
+      <module name="FirstJavaProgramCWH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CWH_46_this_and_super" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_46_this_and_super" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -255,14 +226,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CWH_39_PracticeSetOOPS" />
-        <item itemvalue="Application.CWH_38_customClass" />
-        <item itemvalue="Application.CWH_39_PracticeSetMethods" />
-        <item itemvalue="Application.CHW_34_recursion" />
-        <item itemvalue="Application.CWH_33_varargs" />
+        <item itemvalue="Application.CWH_46_this_and_super" />
+        <item itemvalue="Application.CWH_46_this_and_super (1)" />
+        <item itemvalue="Application.CWH_46_this_and_super (5)" />
+        <item itemvalue="Application.CWH_46_this_and_super (4)" />
+        <item itemvalue="Application.CWH_46_this_and_super (3)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -277,9 +249,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="966" y="0" width="954" height="1080" extended-state="0" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.7905702" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.82346493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -288,7 +261,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31188118" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,13 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_31_methods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CWH_35_PracticeSetMethods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -539,24 +505,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_38_customClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-122">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetOOPS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="153" column="30" lean-forward="true" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
+        <state relative-caret-position="100">
+          <caret line="103" column="28" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="381">
+          <caret line="109" column="28" selection-start-line="109" selection-start-column="28" selection-end-line="109" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_38_customClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_44_PracticeSetAccessModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_42_constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_31_methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_43_GuesstheName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_45_Inheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CWH_45_constructor_in_inheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
         </state>
       </provider>
     </entry>

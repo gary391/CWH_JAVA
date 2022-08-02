@@ -162,10 +162,10 @@ public class CWH_39_PracticeSetOOPS {
 
         // Problem 6 Circle class
 
-//        Circle mycircle = new Circle();
-//        mycircle.radius = 5;
-//        System.out.println(mycircle.area());
-//        System.out.println(mycircle.perimeter());
+        Circle mycircle = new Circle(); //
+        mycircle.radius = 5;
+        System.out.println(mycircle.area());
+        System.out.println(mycircle.perimeter());
 
     }
 }
