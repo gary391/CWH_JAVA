@@ -1,0 +1,12 @@
+Q: Why do this() and super() have to be the first statement in a constructor?
+ - In case you only have one class or the parent class 
+
+ In cases where a parent class has a default constructor the call to super is inserted for you automatically by the compiler. Since every class in Java inherits from Object, objects constructor must be called somehow and it must be executed first. The automatic insertion of super() by the compiler allows this. Enforcing super to appear first, enforces that constructor bodies are executed in the correct order which would be: Object -> Parent -> Child -> ChildOfChild -> SoOnSoForth
+
+https://www.geeksforgeeks.org/constructors-in-java/?ref=lbp
+
+Q: What is @Singleton?
+- Creates only single instance of a class 
+
+Q: What is @Slf4j used for?
+- Part of the lombok packages used for logging and help in removing boiler plate code

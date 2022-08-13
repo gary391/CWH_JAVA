@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46ebf4c-af12-4396-bde8-9b1c118c1ced" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_42_constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_43_GuesstheName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_44_PracticeSetAccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_45_Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_46_constructor_in_inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_46_this_and_super.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_48_MethodOverRiding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_49_Dynamic_method_dispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_50_Ex3_GuessTheNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_51_Excercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_52_PracticeSetCh10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_53_AbstractClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_54_Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_57_InterfacesExample_DefaultMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_58_Inheritance_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_59_Polymorphism_in_interface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstJavaProgramCWH/META-INF/FirstJavaProgramCWH.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_31_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_31_methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetOOPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_39_PracticeSetOOPS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_46_this_and_super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_46_this_and_super.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/company/CWH_21_WhileLoop.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/CWH_31_methods.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/CWH_38_customClass.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/CWH_40_AccessModifiersConstructors.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/CWH_42_constructor.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/CWH_43_GuesstheName.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/CWH_44_PracticeSetAccessModifier.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/CWH_45_Inheritance.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/CWH_46_constructor_in_inheritance.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/CWH_46_this_and_super.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -133,19 +145,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;/Users/gauyada/WorkDocs/03_KNOWLEDGE/25_JAVA/CWH_JAVA/FirstJavaProgramCWH&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CWH_46_this_and_super">
+  <component name="RunManager" selected="Application.CWH_59_Polymorphism_in_interface">
     <configuration name="CWH_19_practiceset4" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CWH_19_practiceset4" />
       <module name="FirstJavaProgramCWH" />
@@ -159,8 +172,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_46_this_and_super (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_46_this_and_super" />
+    <configuration name="CWH_57_InterfacesExample_DefaultMethods (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_57_InterfacesExample_DefaultMethods" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -172,8 +185,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_46_this_and_super (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_46_this_and_super" />
+    <configuration name="CWH_57_InterfacesExample_DefaultMethods (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_57_InterfacesExample_DefaultMethods" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -185,8 +198,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_46_this_and_super (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_46_this_and_super" />
+    <configuration name="CWH_57_InterfacesExample_DefaultMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_57_InterfacesExample_DefaultMethods" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -198,8 +211,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_46_this_and_super (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_46_this_and_super" />
+    <configuration name="CWH_58_Inheritance_Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_58_Inheritance_Interface" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -211,8 +224,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_46_this_and_super" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_46_this_and_super" />
+    <configuration name="CWH_59_Polymorphism_in_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_59_Polymorphism_in_interface" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -226,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CWH_46_this_and_super" />
-        <item itemvalue="Application.CWH_46_this_and_super (1)" />
-        <item itemvalue="Application.CWH_46_this_and_super (5)" />
-        <item itemvalue="Application.CWH_46_this_and_super (4)" />
-        <item itemvalue="Application.CWH_46_this_and_super (3)" />
+        <item itemvalue="Application.CWH_59_Polymorphism_in_interface" />
+        <item itemvalue="Application.CWH_58_Inheritance_Interface" />
+        <item itemvalue="Application.CWH_57_InterfacesExample_DefaultMethods (2)" />
+        <item itemvalue="Application.CWH_57_InterfacesExample_DefaultMethods" />
+        <item itemvalue="Application.CWH_57_InterfacesExample_DefaultMethods (1)" />
       </list>
     </recent_temporary>
   </component>

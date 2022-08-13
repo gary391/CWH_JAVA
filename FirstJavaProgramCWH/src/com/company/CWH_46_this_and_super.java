@@ -10,6 +10,7 @@ class Myclass{
     }
 
     // constructor with parameter, is acting as setter here.
+   // Here this is a reference to the class variable that is available in the class
     Myclass(int a){
         this.a = a;
     }
