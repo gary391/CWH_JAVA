@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46ebf4c-af12-4396-bde8-9b1c118c1ced" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_48_MethodOverRiding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_49_Dynamic_method_dispatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_50_Ex3_GuessTheNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_51_Excercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_52_PracticeSetCh10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_53_AbstractClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_54_Interfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_57_InterfacesExample_DefaultMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_58_Inheritance_Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_59_Polymorphism_in_interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_60_AbstractClass_Interfaces_PracticeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_66_AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_78_Errors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_79_ErrorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_80_TryCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_81_ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CWH_82_NestedTryCatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CWH_46_this_and_super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CWH_46_this_and_super.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +154,7 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CWH_59_Polymorphism_in_interface">
+  <component name="RunManager" selected="Application.CWH_82_NestedTryCatch">
     <configuration name="CWH_19_practiceset4" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CWH_19_practiceset4" />
       <module name="FirstJavaProgramCWH" />
@@ -172,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_57_InterfacesExample_DefaultMethods (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_57_InterfacesExample_DefaultMethods" />
+    <configuration name="CWH_78_Errors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_78_Errors" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -185,8 +181,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_57_InterfacesExample_DefaultMethods (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_57_InterfacesExample_DefaultMethods" />
+    <configuration name="CWH_79_ErrorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_79_ErrorsDemo" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -198,8 +194,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_57_InterfacesExample_DefaultMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_57_InterfacesExample_DefaultMethods" />
+    <configuration name="CWH_80_TryCatchBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_80_TryCatchBlock" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -211,8 +207,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_58_Inheritance_Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_58_Inheritance_Interface" />
+    <configuration name="CWH_81_ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_81_ExceptionHandling" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -224,8 +220,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CWH_59_Polymorphism_in_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.CWH_59_Polymorphism_in_interface" />
+    <configuration name="CWH_82_NestedTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CWH_82_NestedTryCatch" />
       <module name="FirstJavaProgramCWH" />
       <extension name="coverage">
         <pattern>
@@ -239,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CWH_59_Polymorphism_in_interface" />
-        <item itemvalue="Application.CWH_58_Inheritance_Interface" />
-        <item itemvalue="Application.CWH_57_InterfacesExample_DefaultMethods (2)" />
-        <item itemvalue="Application.CWH_57_InterfacesExample_DefaultMethods" />
-        <item itemvalue="Application.CWH_57_InterfacesExample_DefaultMethods (1)" />
+        <item itemvalue="Application.CWH_82_NestedTryCatch" />
+        <item itemvalue="Application.CWH_81_ExceptionHandling" />
+        <item itemvalue="Application.CWH_80_TryCatchBlock" />
+        <item itemvalue="Application.CWH_79_ErrorsDemo" />
+        <item itemvalue="Application.CWH_78_Errors" />
       </list>
     </recent_temporary>
   </component>
