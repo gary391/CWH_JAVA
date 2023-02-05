@@ -16,7 +16,12 @@ interface childSampleInterface extends  sampleInterface{
     void meth3();
     void meth4();
 }
-class MySampleClass implements childSampleInterface{
+interface grandchildSampleInterface extends childSampleInterface{
+    //method
+    void meth5();
+    void meth6();
+}
+class MySampleClass implements grandchildSampleInterface{
 
     //method
     public void meth1(){
@@ -31,6 +36,12 @@ class MySampleClass implements childSampleInterface{
     public void meth4(){
         System.out.println("meth4");
     }
+    public void meth5(){
+        System.out.println("meth5");
+    }
+    public void meth6(){
+        System.out.println("meth6");
+    }
 }
 
 public class CWH_58_Inheritance_Interface {
@@ -41,5 +52,7 @@ public class CWH_58_Inheritance_Interface {
         obj.meth2();
         obj.meth3();
         obj.meth4();
+        obj.meth5();
+        obj.meth6();
     }
 }

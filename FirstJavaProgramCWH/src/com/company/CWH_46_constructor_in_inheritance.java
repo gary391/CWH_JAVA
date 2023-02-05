@@ -6,15 +6,17 @@ package com.company;
 class Base1{
 
 
-    // constructor method of the base class, which executes as soon as an object is created (base or derived class).
+    // constructor method of the base class,
+    // which executes as soon as an object is created (base or derived class).
 
     Base1(){
+
         System.out.println("I am a constructor of base class!");
     }
 
     // Constructor overloading
     Base1(int x){
-        System.out.println("I am a overloaded constructor with value of x: "+ x);
+        System.out.println("I am a overloaded base class constructor with value of x: "+ x);
     }
 
     public int x;
@@ -35,7 +37,8 @@ class Derived1 extends Base1{
 
     // Derived1 class constructor
     Derived1(){
-//        super(88); // Will allow object of dervied class to call the overloaded constructor of the base class.
+//        super(88); // Will allow object of dervied class to call
+//        the overloaded constructor of the base class.
         System.out.println("I am a constructor of derived class!");
     }
 
@@ -68,7 +71,7 @@ class Childofderived extends Derived1{
     // overloaded constructor method
     Childofderived(int x, int y, int z){
         super(x,y);
-        System.out.println("I am a overloaded constructor of child of derived1 class with value of z: "+ z);
+        System.out.println("I am a overloaded construct or of child of derived1 class with value of z: "+ z);
     }
 }
 
@@ -80,7 +83,8 @@ public class CWH_46_constructor_in_inheritance {
 //        Base1 b = new Base1();
 
         // Object of derived1 class
-//        Derived1 d = new Derived1();// Note: constructor of the base class as well derived class is executed.
+        // Note: constructor of the base class is executed and then derived class is executed.
+//        Derived1 d = new Derived1();
 
         // This will call the overloaded constructor or the base class that of the derived1 class
 //        Derived1 d = new Derived1(10, 20 );

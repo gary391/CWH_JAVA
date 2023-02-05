@@ -4,7 +4,7 @@ package com.company;
 /**
  * Syntax Error
  * Logical Error --> Bug
- * Runtime error --> User provided input or input from a different source -
+ * Runtime error --> User provided input or input from a different source - experienced by the user end.
  * Also called exceptions - These should be handled correctly. -
  */
 public class CWH_78_Errors {

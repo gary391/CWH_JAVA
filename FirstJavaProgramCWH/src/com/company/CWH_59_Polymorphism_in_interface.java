@@ -64,7 +64,8 @@ class MySmartPhone2 extends MyCellPhone2 implements MyWifi2, MyCamera2{
 
 public class CWH_59_Polymorphism_in_interface {
     public static void main(String[] args) {
-        // This is a smartphone but, use it is a camera. SO you can only use method mentioned in camera
+        // This is a smartphone but, use it is as a camera.
+        // SO you can only use method mentioned in camera
         MyCamera2 cam1 = new MySmartPhone2();
 //        cam1.getNetworks(); --> not allowed as you only wanted to use cam using a MySmartPhone2 object
 //        cam1.sampleMeth(); --> Not allowed as you only want to use cam using a MySmartPhone2 object.
@@ -75,6 +76,7 @@ public class CWH_59_Polymorphism_in_interface {
         s.sampleMeth();
         s.getNetworks();
         s.callNumber(23232322);
+        s.pickCall();
 
 
     }

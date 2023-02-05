@@ -8,9 +8,14 @@ class Myclass{
     public int getA(){
         return a;
     }
+    //Setter method
+    public void setA(int A){
+        this.a=a;
+    }
 
     // constructor with parameter, is acting as setter here.
    // Here this is a reference to the class variable that is available in the class
+    // this Refer to the object that is being created.
     Myclass(int a){
         this.a = a;
     }
@@ -26,16 +31,17 @@ class Mericlass extends Myclass{
     Mericlass(int c){
         // using super we are able to call the constructor with a parameter in the parent class.
         super(c);
-        System.out.println("I am a constructor!");
+        System.out.println("I am a constructor! "+ c);
     }
 }
-public class CWH_46_this_and_super {
+public class CWH_47_this_and_super {
     public static void main(String[] args) {
 
         // Object of a class
-        Myclass m = new Myclass(55);
+        Myclass m = new Myclass(5);
+        m.setA(5);
         Mericlass meri = new Mericlass(45);
-        System.out.println(m.getA());
+//        System.out.println(m.getA());
 
 
 

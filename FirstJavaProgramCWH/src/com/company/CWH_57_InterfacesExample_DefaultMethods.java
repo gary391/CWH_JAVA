@@ -24,6 +24,12 @@ interface MyWifi{
     void connectToNetwork(String network);
 }
 
+interface MyGPS{
+
+    //Method
+    void recordGPS();
+}
+
 // Class - MyCellPhone
 class MyCellPhone{
 
@@ -35,7 +41,7 @@ class MyCellPhone{
     }
 }
 
-class MySmartPhone extends MyCellPhone implements MyWifi, MyCamera{
+class MySmartPhone extends MyCellPhone implements MyWifi, MyCamera, MyGPS{
 
         // Method implementation
     public void takeSnap(){
@@ -43,6 +49,9 @@ class MySmartPhone extends MyCellPhone implements MyWifi, MyCamera{
     }
     public void recordVideo(){
         System.out.println("Now recording a video...");
+    }
+    public void recordGPS(){
+        System.out.println("Record GPS coordinates!!");
     }
 //    public void record4KVideo(){
 //        System.out.println("Now Recording in 4K...");

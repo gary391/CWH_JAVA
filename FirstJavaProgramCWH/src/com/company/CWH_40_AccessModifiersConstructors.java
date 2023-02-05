@@ -1,7 +1,4 @@
 package com.company;
-
-
-
 /* Access modifier - Way to access property and methods in one class by another class,
 1. Private
 2. Default // No need to mention anything
@@ -11,7 +8,8 @@ package com.company;
 
 Why do you need getter setter instead  just could have made the property as public or default ?
 
-- We can set validation and avoid incorrect initialization. Example: name of a person can't be a number
+- We can set validation and avoid incorrect initialization.
+  Example: name of a person can't be a number
 - Phone number can't have special characters
 
 

@@ -1,9 +1,11 @@
 package com.company;
 
 // This is the superClass or Parent Class or Base Class
+// Access modifier is default
 class Base{
 
-    public int x;
+//    public int x;
+    private int x;
 
     // setter method
     public void setX(int x){
@@ -16,11 +18,13 @@ class Base{
     //getter method
 
     public int getX(){
+
         return x;
     }
 
     // method
     public void printMe(){
+
         System.out.println("I am a constructor!");
     }
 

@@ -21,13 +21,20 @@ abstract class Parent2{
 
         System.out.println("Hello!");
     }
-    abstract public void greet(); // different people have different way to greet -
+    abstract public void greet(); // different people have different way to greet
     abstract public void greet1(); // different people have different way to greet
 }
 //inherit
 // Note we can't extend from a parent abstract class without using abstract key word or creating a
 // Abstract method in the parent class. ?? What is the meaning of creating an abstract method in the
 // parent class.
+// The reason for creating an abstract class is that if you need to make function/methods that will be
+// common example: switchOff Method in a phone will be common across all the type of phones thus we
+// can create an abstract class that has atleast one abstract method. --> All the methods that will be
+// common in the subClasses they will be created as Abstract methods.
+
+// In case you inherit, you will have to implement the method otherwise you will have to make it as
+// abstract class.
 
 // Make sure all methods in the Abstract class should be overriden to make a concrete class.
 

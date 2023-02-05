@@ -1,5 +1,5 @@
 package com.company;
-
+// method overloading - same method name but different parameters
 class A{
     // Data Members
     public int a;
@@ -15,7 +15,9 @@ class A{
 class B extends A{
 
     // Method 2 of class B
-    @Override // Helps us to indentify that this method has been overridden
+    @Override
+    // Override annotation (Same argument list )
+    // Helps us to identify that this method has been overridden
     public void meth2(){
         System.out.println("I am method 2 of class B");
     }

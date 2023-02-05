@@ -1,6 +1,6 @@
 package com.company;
 
-public class CWH_33_varargs {
+public class  CWH_33_varargs {
 
 
 //    static int sum(int a, int b){
@@ -11,7 +11,7 @@ public class CWH_33_varargs {
 //        return  a+b+c;
 //    }
 
-    // ...
+    // ...  give all the arguments in an array
     // int x make it complusory
     public static int sum (int x, int ...arr){
         int result=x;

@@ -18,6 +18,7 @@ class SmartPhone extends Phone{
     public void music(){
         System.out.println("Playing music...");
     }
+    @Override
     public void on(){
         System.out.println("Turning on SmartPhone...");
     }
@@ -34,14 +35,19 @@ public class CWH_49_Dynamic_method_dispatch {
         // new SmartPhone(): object of Sub class SmartPhone
         // Here the SubClass object can be referenced to a Super class
 
-        // Run time polymorphisim
-        // You can only call methods that are their in the super class
+        // Run time polymorphisim - Object creation will happen at the run time.
+        // You can only call methods that are their in the super class or common
 
+        // SUPER OBJ = NEW SUB() -->
+        // REFERENCE HAI PHONE KA BUT OBJECT IS OF SMARTPHONE
+        // OBJECT OF SMART IS BEING REFERRED WITH REFERENCE OF PHONE
+        // ALL METHODS OF PHONE ARE ALLOWED OR THAT ARE COMMON WITH SMARTPHONE BUT
+        // SMARTPHONE METHODS ARE NOT ALLOWED.
         Phone obj = new SmartPhone(); // Yes it is allowed
 
 //        SmartPhone obj2 = new Phone(); // NOT ALLOWED
         obj.showTime();
 //        obj.music(); //not allowed as it not present in the super class
-        obj.on(); // Objects method will executed
+        obj.on(); // Objects method will be executed
     }
 }
